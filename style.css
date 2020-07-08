@@ -10,7 +10,7 @@ h1 {
 
 nav {
   text-align: center;
-  
+
 }
 nav > a {
   padding-left: 10px;
@@ -24,7 +24,7 @@ img {
 
 }
 
-p#featured-property {
+section#featured-property {
   text-align: center;
 
 }
