@@ -36,5 +36,5 @@ section#featured-property p {
 
 
 section#details div {
-  text-align: center;
+  display: block;
 }
