@@ -9,9 +9,9 @@ h1 {
 }
 
 nav > a {
-  text-align: center;
   padding-left: 10px;
   padding-right: 10px;
+  text-align: center;
 }
 
 img {
