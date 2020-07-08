@@ -24,7 +24,7 @@ img {
 }
 
 
-section#featured-property p {
+section#featured-property p figcaption{
   width: 800px;
   margin: auto;
   text-align: center;
