@@ -26,10 +26,13 @@ img {
 
 section#featured-property {
   text-align: center;
-
 }
+
+section#featured-property p {
+  width: 800px
+}
+
 
 section#details {
   text-align: center;
-
 }
