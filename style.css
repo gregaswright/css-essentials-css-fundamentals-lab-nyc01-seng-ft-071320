@@ -23,8 +23,12 @@ img {
   margin-right: auto;
 }
 
+section#featured-property figcaption {
+  text-align: center;
+}
 
-section#featured-property p figcaption{
+
+section#featured-property p {
   width: 800px;
   margin: auto;
   text-align: center;
