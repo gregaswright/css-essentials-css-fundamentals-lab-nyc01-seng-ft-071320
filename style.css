@@ -18,6 +18,7 @@ section#featured-property {
 }
 
 section#details {
+  text-align: center;
   display: block;
   float: left;
 }
